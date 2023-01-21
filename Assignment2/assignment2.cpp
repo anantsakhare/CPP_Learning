@@ -2,6 +2,7 @@
 
 using namespace std;
 
+
 int main()  {
     // Q1 - Write a program to check whether two numbers (entered by user) are equal or not (0 for not equal, 1  for equal)
 
