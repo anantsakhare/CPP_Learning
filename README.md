@@ -13,6 +13,3 @@ Please refer list of points & problem has covered.
     - Calculation of area of rectangle. [5](./Assignment1/rectArea.cpp)
     - Memory Space occupied by a variable. [6](./Assignment1/rectArea.cpp)
     - Swap Numbers. [7](./Assignment1/swapNumbers.cpp)
-
- 
-
